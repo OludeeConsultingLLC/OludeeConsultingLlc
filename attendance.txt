@@ -1,0 +1,11 @@
+This is the attendance register for our meeting
+
+1. Jimmy
+2. Akin
+3. Henry
+4. Martin
+5. Sarah
+6. Beatrice
+7. Kerry
+8. Kester
+
